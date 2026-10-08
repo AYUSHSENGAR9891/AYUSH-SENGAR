@@ -1,0 +1,8 @@
+{
+  "name": "Remix CareerQuest AI",
+  "description": "Your dream career. Reverse engineered. Turn any dream job into a personalized, interactive roadmap powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
